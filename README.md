@@ -22,20 +22,23 @@ I work as a **senior full-stack software engineer** [@TestCard](https://testcard
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=ffffff)
 ![Bitbucket](https://img.shields.io/badge/-Bitbucket-0052CC?style=flat&logo=bitbucket&logoColor=ffffff)
 
-![Laravel Forge](https://img.shields.io/badge/-Laravel%20Forge-F9322C?style=flat&logo=laravel&logoColor=FFFFFF&color=F9322C)
 ![Amazon AWS](https://img.shields.io/static/v1?label=&message=Amazon+AWS&color=orange&logo=amazon-aws&logoColor=white)
 ![docker](https://img.shields.io/badge/Docker-blue?logo=docker&logoColor=white)
+![Laravel Forge](https://img.shields.io/badge/-Laravel%20Forge-F9322C?style=flat&logo=laravel&logoColor=FFFFFF&color=F9322C)
 
-![macOS](https://img.shields.io/badge/-macOS-000000?style=flat)
+![macOS](https://img.shields.io/badge/-macOS-000000?logo=apple&style=flat)
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=ffffff)
+
+![OpenAI](https://img.shields.io/static/v1?label=&message=OpenAI&color=black&logo=openai&logoColor=white)
 
 🧠 **I'm currently focusing on learning and expanding my knowledge on:**
 
-![docker](https://img.shields.io/badge/Docker-blue?logo=docker&logoColor=white)
+![React](https://img.shields.io/badge/React-blue?logo=react&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-21232a?logo=react&logoColor=white)
 ![Terraform](https://img.shields.io/static/v1?label=&message=Terraform&color=purple&logo=terraform&logoColor=white)
 ![Ionic Vue](https://img.shields.io/badge/Ionic_Vue-blue?logo=ionic&logoColor=white)
 ![Python](https://img.shields.io/static/v1?label=&message=Python&color=red&logo=python&logoColor=white)
-![OpenAI](https://img.shields.io/static/v1?label=&message=OpenAI&color=black&logo=openai&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white)
 
 
 ### 📈 A bit of fluff
