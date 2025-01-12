@@ -4,6 +4,12 @@ I'm Sacha <small>_(he/him)_</small>, a **full-stack web developer** in Hull, UK 
 
 I work as a **senior full-stack software engineer** [@TestCard](https://testcard.com), a **medical device company**, making testing more **accessible** and **accurate** 🧪
 
+### 📄 Résumé
+For a brief overview of my work history, see [RESUME.md](RESUME.md)
+
+### 📑 Curriculum Vitae
+For my CV, see [CV.md](CV.md)
+
 ### ⚡️ Preferred Tech
 
 ![PHP](https://img.shields.io/badge/-PHP-8892bf?style=flat&logo=php&logoColor=FFFFFF&color=8892bf)
