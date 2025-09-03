@@ -20,10 +20,12 @@ I work as a **senior full-stack software engineer** [@TestCard](https://testcard
 
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat&logo=git&logoColor=%23ffffff)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=ffffff)
+![GitLab](https://img.shields.io/badge/-GitLab-FC6D26?style=flat&logo=gitlab&logoColor=ffffff)
 ![Bitbucket](https://img.shields.io/badge/-Bitbucket-0052CC?style=flat&logo=bitbucket&logoColor=ffffff)
 
 ![Amazon AWS](https://img.shields.io/static/v1?label=&message=Amazon+AWS&color=orange&logo=amazon-aws&logoColor=white)
 ![docker](https://img.shields.io/badge/Docker-blue?logo=docker&logoColor=white)
+![Laravel Vapor](https://img.shields.io/badge/-Laravel%20Vapor-30a5e6?style=flat&logo=laravel&logoColor=FFFFFF&color=30a5e6)
 ![Laravel Forge](https://img.shields.io/badge/-Laravel%20Forge-F9322C?style=flat&logo=laravel&logoColor=FFFFFF&color=F9322C)
 
 ![macOS](https://img.shields.io/badge/-macOS-000000?logo=apple&style=flat)
