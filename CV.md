@@ -7,7 +7,7 @@ Looking for something shorter? [See my résumé](RESUME.md).
 ## Professional Summary
 I am a Senior Full Stack Software Engineer with over a decade of experience building, maintaining, and scaling software solutions across healthcare, retail, and the public sector. 
 
-My core expertise lies in Laravel and Vue, though I am more than comfortable with PHP and JavaScript as languages in their own right. I have used PHP professionally since 5.2 and seen the language and ecosystem mature. I am keen on keeping up-to-date with 
+My core expertise lies in Laravel and Vue, though I am more than comfortable with PHP and JavaScript as languages in their own right. I have used PHP professionally since 5.2 and seen the language and ecosystem mature. I am keen on keeping up-to-date with the latest versions of languages, frameworks, and tooling.
 
 Over the years, I have led projects that range from high-traffic consumer-facing APIs to complex NHS integrations, while also mentoring junior developers, establishing CI/CD pipelines, and driving digital innovation.
 
