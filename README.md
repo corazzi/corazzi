@@ -8,7 +8,7 @@ I work as a **senior full-stack software engineer** [@TestCard](https://testcard
 For a brief overview of my work history, see [RESUME.md](RESUME.md)
 
 ### 📑 Curriculum Vitae
-For my CV, see [CV.md](CV.md)
+For my CV, see [CV.md](CV.md) or [download the PDF](sacha-corazzi-senior-software-engineer-curriculum-vitae-september-2025.pdf).
 
 ### ⚡️ Preferred Tech
 
