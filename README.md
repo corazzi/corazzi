@@ -2,7 +2,15 @@
 
 I'm Sacha <small>_(he/him)_</small>, a **full-stack web developer** in Hull, UK with 10+ years of professional experience.
 
-I work as a **senior full-stack software engineer** [@TestCard](https://testcard.com), a **medical device company**, making testing more **accessible** and **accurate** 🧪
+I currently work as a **senior full-stack software engineer** [@TestCard](https://testcard.com), a **medical device company**, making testing more **accessible** and **accurate** 🧪
+
+With a lifelong passion for technology that began at a young age, I've spent the better part of two decades honing my craft in software development. As a Senior Full-stack Software Engineer in the medtech industry, I bring with me a wealth of experience from multiple sectors, including e-commerce, social networking, asset tracking, and business intelligence.
+
+Over the years, I've been proud to lead a range of projects from building online food ordering platforms and social networking sites to developing business intelligence platforms and nationwide license tracking systems.
+
+One thing that hasn't changed over the years is my dedication to helping people. This not only means creating systems and platforms that serve diverse needs but also nurturing the next generation of tech talent. My leadership approach revolves around gentle guidance and adaptability, recognising and valuing individual learning styles.
+
+Beyond my technical career, I believe strongly in giving back to my community. I volunteer at local animal sanctuaries, actively advocate for animal rights, and have built and host a website for a local LGBTQ+ organisation.
 
 ### 📄 Résumé
 For a brief overview of my work history, see [RESUME.md](RESUME.md)
