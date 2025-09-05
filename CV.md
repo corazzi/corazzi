@@ -2,6 +2,8 @@
 
 Looking for something shorter? [See my résumé](RESUME.md).
 
+Prefer a PDF? [Download it here](sacha-corazzi-senior-software-engineer-curriculum-vitae-september-2025.pdf).
+
 ---
 
 ## Professional Summary
