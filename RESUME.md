@@ -7,11 +7,18 @@ Looking for something more detailed? [See my CV](CV.md).
 #### January 2023 – Present
 <small>Laravel, Vue, Filament, Python, AWS (Elastic Beanstalk, Lambda), Laravel Vapor</small>
 
-* Led and owned several solutions across the healthcare sector, primarily the NHS
-* Built and maintained multiple high traffic mobile application backend APIs for B2B and B2C clients
-* Implemented HL7 middleware integrations for dozens of NHS trusts
+* Led and owned several solutions (becoming a stakeholder) across the healthcare sector, primarily the NHS, including a multi-tenanted clinical testing platform and a study platform initially geared towards prostate cancer (PSA) screening
+* Designed, built, and maintained multiple high traffic mobile application backend APIs for B2B and B2C clients
+* Improved reporting performance by an order of magnitude
+* Architected a cross-project data lake for company and product insights
+* Designed and implemented HL7 middleware integrations for dozens of NHS trusts at scale
+* Translated complex healthcare requirements into concrete implementations
+* Defined security principles including covering the OWASP Top Ten and gaining ISO27001 certification
 * Helped develop image analysis software for reading and analysing urine/blood/salivary test images (Python, Laravel, Lambda)
-* Wrote and maintained CI/CD pipelines (Bitbucket) 
+* Iterated in collaboration with the image analysis team on a standardised test result structure
+* Wrote and maintained CI/CD pipelines (Bitbucket)
+* Introduced code quality systems (e.g., static analysis, code coverage)
+* Defined containerisation standards across projects using Docker
 * Built internal tooling
 * Mentored junior engineers
 
