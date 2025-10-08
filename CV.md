@@ -7,15 +7,11 @@ Prefer a PDF? [Download it here](sacha-corazzi-senior-software-engineer-curricul
 ---
 
 ## Professional Summary
-I am a Senior Full Stack Software Engineer with over a decade of experience building, maintaining, and scaling software solutions across healthcare, retail, and the public sector. 
+I am a Senior Full Stack Software Engineer with over a decade of experience designing, building, and scaling software across healthcare, retail, and the public sector. My core expertise lies in Laravel and Vue, supported by deep proficiency in PHP and JavaScript and a strong grasp of modern architectural patterns and DevOps practices.
 
-My core expertise lies in Laravel and Vue, though I am more than comfortable with PHP and JavaScript as languages in their own right. I have used PHP professionally since 5.2 and seen the language and ecosystem mature. I am keen on keeping up-to-date with the latest versions of languages, frameworks, and tooling.
+I’ve led the delivery of high-traffic APIs, large-scale integrations, and data-driven applications, including complex NHS projects and consumer platforms serving tens of thousands of users. I’m comfortable owning solutions end-to-end — from architecture and implementation through to deployment and performance optimisation — and have driven improvements that increased reporting performance by an order of magnitude.
 
-Over the years, I have led projects that range from high-traffic consumer-facing APIs to complex NHS integrations, while also mentoring junior developers, establishing CI/CD pipelines, and driving digital innovation.
-
-My career reflects a consistent focus on solving real-world problems. I like to take ownership of projects to the point I'm able to become dedicated to their evolution and successes.
-
-I pride myself on writing comprehensive pull requests and documentation that provide clear and easy to follow setup and testing guidelines.
+Beyond coding, I care about building healthy engineering cultures: mentoring developers, improving CI/CD pipelines, and championing secure, maintainable, and well-documented systems. I’m most motivated by roles where engineers are trusted to take ownership, influence direction, and contribute directly to product and business success.
 
 ---
 
